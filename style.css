@@ -1,3 +1,24 @@
-body {
-	background-color: black;
+.backgrnd_img {
+  background-image: url("http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/hobnob-background.jpg");
+  background-size: cover;
+}
+
+.ui.topmenu.menu {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.middle-section {
+  height: 800px;
+  padding: 20% 20% 20% 20%;
+}
+
+.footer {
+  height:200px;
+  padding-top:100px;
+  color:#55EFCB;
+}
+.test-padding {
+  height:50px;
 }
